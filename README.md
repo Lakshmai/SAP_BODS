@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Lakshmi's Business Objects and Data Services Tutorials
 
-You can use the [editor on GitHub](https://github.com/lakshmi-prasanna-teja-aleti/SAP_BODS/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Here we can learn and discuss some tips and tricks
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Please follow me on Github for more details
 
 ### Markdown
 
